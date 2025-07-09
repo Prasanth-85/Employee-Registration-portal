@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.outer{
+    height: 100vh;
+    /* background-color: cadetblue; */
+    display: flex;
+}
+.left{
+    height: 100%;
+    width: 50%;
+    /* border: 2px solid black; */
+    background-color: #aecbeb;
+    text-align: end;
+    align-content: center;
+    padding-right: 30px;
+}
+.right{
+    height: 100%;
+    width: 50%;
+    /* border: 2px solid black; */
+    background-color: #aecbeb;
+    align-content: center;
+    padding-left: 30px;
+}
+form{
+    display: block;
+    height: max-content;
+    width: 300px;
+    /* border: 2px solid black; */
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 5px #0000008e;
+    background-color: #e1ecf7;
+}
+form > label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+form > input{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 0 8px;
+    outline: none;
+    box-shadow: 2px 2px 4px #3333;
+}
+form > button{
+    width: 100%;
+    height: 40px;
+    margin: 15px 0;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: #71a5de;
+    /* color: white; */
+    box-shadow: 2px 2px 5px #3333;
+    
+}
+form > button:hover{
+    cursor: pointer;
+    box-shadow: inset 2px 2px 4px #3333;
+}
+form > button:active{
+    background-color: #0460DA;
+    box-shadow: 2px 2px 4px #3333;
+    color: white;
+}
+form > p, a {
+    display: inline;
+    font-size: 15px;
+}
