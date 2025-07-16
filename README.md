@@ -111,6 +111,7 @@ Employee_Registration_Portal/
 Users can choose whether to log in as an Admin or Employee from this landing screen.
 
 ![Portal Selection](https://github.com/user-attachments/assets/303c7783-a877-4176-9b81-263ebd2301e9)
+<img width="1366" height="686" alt="portal-selection" src="https://github.com/user-attachments/assets/e4898308-0bf0-4996-8432-1a411a8945f7" />
 
 ### 🔐 Admin Login Page
 Secure login page for administrators to access and manage employee records.
@@ -162,5 +163,6 @@ Once logged in, employees are taken to their home page displaying their profile 
 ---
 
 ## 📄 License
+
 
 This project is open-source and available under the [MIT License](LICENSE).
