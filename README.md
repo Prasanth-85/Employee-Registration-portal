@@ -110,38 +110,37 @@ Employee_Registration_Portal/
 ### 🔰 Portal Selection Screen
 Users can choose whether to log in as an Admin or Employee from this landing screen.
 
-![Portal Selection](https://github.com/user-attachments/assets/303c7783-a877-4176-9b81-263ebd2301e9)
-<img width="1366" height="686" alt="portal-selection" src="https://github.com/user-attachments/assets/e4898308-0bf0-4996-8432-1a411a8945f7" />
+![Portal Selection](<img width="1366" height="686" alt="portal-selection" src="https://github.com/user-attachments/assets/1d569c67-b0df-4d47-975d-66033d8066bb" />)
 
 ### 🔐 Admin Login Page
 Secure login page for administrators to access and manage employee records.
 
-![Admin Login](https://github.com/user-attachments/assets/61ccb88d-1e7a-444f-b6a9-2ffa7f382177)
+![Admin Login](<img width="1366" height="684" alt="admin-login" src="https://github.com/user-attachments/assets/46375f11-ae35-41bb-aa41-2c9db8947d29" />)
 
 ### 📝 Admin Signup Page
 Page where a new admin can create an account to access the portal.
 
-![Admin Signup](https://github.com/user-attachments/assets/91fd9eb3-8475-404e-835c-a4627e7231a9)
+![Admin Signup](<img width="1366" height="686" alt="admin-signup" src="https://github.com/user-attachments/assets/21f0189f-e38d-484e-8435-3354f0c066a6" />)
 
 ### 📋 Admin Dashboard – Employee List
 After logging in, the admin is presented with a dashboard displaying a list of all registered employees with options to view, edit, or delete records.
 
-![Admin Dashboard](https://github.com/user-attachments/assets/895da612-8fdd-4d4f-94a6-6e5ce3bfa3f9)
+![Admin Dashboard](<img width="1366" height="684" alt="admin-dashboard" src="https://github.com/user-attachments/assets/d20ef47f-7453-4e99-a732-d9c522ab913c" />)
 
 ### 👷 Employee Login Page
 Login interface for employees to securely access their personal profiles and related information.
 
-![Employee Login](https://github.com/user-attachments/assets/1d84ba45-a437-4f26-932e-f93ddc6854a9)
+![Employee Login](<img width="1366" height="686" alt="employee-login" src="https://github.com/user-attachments/assets/b59539e8-f553-4f74-b56a-54730d5cd8e1" />)
 
 ### 📝 Employee Signup Page
 Employees can create a new account by filling in their personal and professional details.
 
-![Employee Signup](https://github.com/user-attachments/assets/b956e132-3cc0-4da2-9307-d2a2d49a32e6)
+![Employee Signup](<img width="1366" height="688" alt="employee-signup" src="https://github.com/user-attachments/assets/ed142698-df3d-4f88-88af-78ec0917eda1" />)
 
 ### 🏠 Employee Home Page
 Once logged in, employees are taken to their home page displaying their profile information and other relevant details.
 
-![Employee Home](https://github.com/user-attachments/assets/294f78c1-6014-494f-84a7-6e4d0eb41af9)
+![Employee Home](<img width="1366" height="684" alt="employee-home" src="https://github.com/user-attachments/assets/1f9b0887-7171-414c-af72-50917293f4a5" />)
 
 ---
 
